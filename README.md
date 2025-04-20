@@ -1,4 +1,4 @@
-# mymangalist
+# prototype 4: mymangalist with browse section
 
 a responsive web application for tracking and discovering manga.
 
