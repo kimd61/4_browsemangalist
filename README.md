@@ -2,6 +2,8 @@
 
 a responsive web application for tracking and discovering manga.
 
+<img src="4_purplebrowse.png"></img>
+
 ## overview
 
 mymangalist is a platform that allows users to discover, track, and share their manga reading experiences. the application features a clean, dark-themed ui optimized for manga enthusiasts.
